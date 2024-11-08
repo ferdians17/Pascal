@@ -13,5 +13,5 @@ begin
     writeln('a <  b', ' :', (a < b));
     writeln('a >= b', ' :', (a >= b));
     writeln('a <= b', ' :', (a <= b));
-    readln;
+    readkey;
 end.
