@@ -4,7 +4,7 @@ var p,i,j,k : integer;
 
 begin
     clrscr;
-    write('masukkan panjang persegi :');
+    write('masukkan panjang segitiga :');
     readln(p);
 
     for i:= 1 to p do
