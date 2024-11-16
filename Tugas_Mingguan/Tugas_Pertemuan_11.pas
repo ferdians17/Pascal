@@ -7,7 +7,7 @@ begin
     writeln('########################');
     writeln('#[ FITTRA FERDIANSYAH ]#');
     writeln('########################');
-    write('masukkan panjang persegi :');
+    write('masukkan panjang segitiga :');
     readln(p);
 
     for i:= p downto 1 do
